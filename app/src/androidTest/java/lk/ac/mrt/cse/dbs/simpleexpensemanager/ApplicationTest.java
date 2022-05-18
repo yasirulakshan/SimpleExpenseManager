@@ -50,8 +50,8 @@ public class ApplicationTest {
 
     @Test
     public void checkNotExistingAccountTest(){
-        expenseManager.addAccount("12345","Test Bank","Test User",1000.00);
+        expenseManager.addAccount("1202005","NSB Bank","User 2",500.00);
         List<String> accountNumbers =  expenseManager.getAccountNumbersList();
-        assertFalse(accountNumbers.contains("11111"));
+        assertFalse(accountNumbers.contains("1202005"));
     }
 }
