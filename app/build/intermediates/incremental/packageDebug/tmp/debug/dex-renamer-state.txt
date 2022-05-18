@@ -1,4 +1,4 @@
-#Tue May 03 01:14:43 IST 2022
-base.0=/home/yasiru/AndroidStudioProjects/SimpleExpenseManager/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Wed May 18 11:10:50 IST 2022
+base.0=/home/yasiru/IdeaProjects/SimpleExpenseManager/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
